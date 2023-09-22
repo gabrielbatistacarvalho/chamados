@@ -10,4 +10,5 @@ Neste projeto utilizamos algumas tecnologias:
 <br>
 <p>Bootstrap</p>: Toda a estilização do sistema é desenvolvida com este framework.
 
-###Para acessar o sistema clique aqui! ![Top Langs](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+###Para acessar o sistema clique aqui! 
+[![LinkedIn](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chamados.gabrielcarvalho.site/)
